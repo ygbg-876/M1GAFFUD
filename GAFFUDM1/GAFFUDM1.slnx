@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="gaffudItemDB/GAFFUDItemDB.sqlproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="ItemAPI/ItemAPI.csproj" />
+  <Project Path="ItemDataLibrary/ItemDataLibrary.csproj" />
+</Solution>
